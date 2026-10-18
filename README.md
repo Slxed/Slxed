@@ -1,6 +1,6 @@
-Hi, I'm William. I study data science and cartography/GIS at UW-Madison (graduating May 2028).
+Hi, I'm William. I study data science and cartography/GIS at UW-Madison (planned graduating May 2028).
 
-I mostly work in Python, R, SQL, ArcGIS Pro, ArcGIS Online, Illustrator, and Git.
+I mostly work in Python, R, SQL, ArcGIS Pro, ArcGIS Online, Illustrator, and Git, but I have some experience with Java, HTML, BeautifulSoup, and JS.
 
 A couple of things I've made:
 - [wi-school-spending](https://github.com/Slxed/wi-school-spending): a map of Wisconsin school spending vs. graduation rates
